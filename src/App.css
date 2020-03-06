@@ -1,0 +1,14 @@
+header{
+  background-color: #000;
+  color: #fff;
+  font-size: 20px;
+  height: 70px;
+}
+.form{
+  width: 90%;
+  margin: 0 auto;
+}
+.post{
+  width: 90%;
+  margin: 10px auto;
+}
